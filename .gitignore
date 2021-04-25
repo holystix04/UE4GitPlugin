@@ -1,6 +1,2 @@
-/Binaries/**/*.pdb
-/Binaries/**/*Debug*
-/Binaries/**/*.dylib
-/Binaries/**/*.modules
-/Binaries/**/*.dll
+/Binaries
 /Intermediate
